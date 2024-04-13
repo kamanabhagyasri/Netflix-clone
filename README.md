@@ -34,10 +34,12 @@ Usage
 Explore different sections of the website.
 Click on buttons and links to navigate through the website.
 Test responsiveness by resizing the browser window or using developer tools.
+
 Credits
 Images: Netflix
 Icons: Font Awesome
 Fonts: Google Fonts
+
 License
 This project is licensed under the MIT License.
 
